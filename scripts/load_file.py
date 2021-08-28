@@ -5,7 +5,7 @@ import logging
 import sys
 
 
-logging.basicConfig(filename='..\logs\load_data.log', filemode='w', format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',level=logging.INFO)
+# logging.basicConfig(filename='..\logs\load_data.log', filemode='w', format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',level=logging.INFO)
 
 
 """

@@ -17,4 +17,4 @@ jobs:
           pip install -r requirements.txt
           
 
-          python scripts.test_data.py
+          python scripts/test_data.py
