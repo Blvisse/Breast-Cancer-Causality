@@ -15,9 +15,9 @@ env:
 install:
   - pip install -r requirements.txt
   
-run:
+# run:
 
-  dvc pull
+#   dvc pull
    
   
 
