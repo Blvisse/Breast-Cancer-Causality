@@ -19,5 +19,20 @@ We plan to understand how the relationship between these features determine the 
 
 **notebooks** notebooks used for data preprocessing
 
+### Notebooks
+1. Modelling notebook includes causal inference carried out using doWhy algorithm
+2.  Causal_finding does causal inference using causal net
+3.  EDA carries out EDA on the data
+
+### Scripts
+load_file - Retrives data from the dvc storage 
+
+visualization.py Conctains function to display data
+
+data_prep carries out basic data preprocessing
+
+# Badges
+[![GitHub issues](https://img.shields.io/github/issues/Blvisse/Breast-Cancer-Causality?style=flat-square)](https://github.com/Blvisse/Breast-Cancer-Causality/issues)
+
 
 
